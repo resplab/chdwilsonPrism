@@ -2,5 +2,5 @@
 
 export(gateway)
 export(prism_model_run)
+import(chdwilson)
 import(jsonlite)
-import(rredis)
